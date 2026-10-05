@@ -1,8 +1,8 @@
-# Student Management System — Upgraded v2.0
+# Student Management System
 
 A Java 17 web application using Servlets, JSP, JDBC, H2 and embedded Tomcat.
 
-## New modules
+## modules
 - Dashboard
 - Students
 - Add Student
